@@ -4,7 +4,7 @@
 
 A fullstack starter repository that includes: 
 - [Typescript](https://www.typescriptlang.org/docs/) language
-- [NextJS](https://nextjs.org/docs/getting-started) framework (frontend)
+- [NextJS](https://nextjs.org/docs/getting-started) frontend
 - [Tailwind CSS](https://tailwindcss.com/docs)
 
 ## Getting Started
@@ -25,9 +25,13 @@ yarn create next-app [project-name] -e https://github.com/YourEpicness/next-ts-t
 # development
 npm run dev
 
-# production
+# production mode
 npm run start
-
-# ready to deploy
-npm run build
 ```
+
+
+## Resources
+
+This was done with the help of:
+- [FreeCodeCamp Blog](https://www.freecodecamp.org/news/how-to-create-a-nextjs-starter-to-easily-bootstrap-a-new-react-app/)
+- [Tailwind Documentation](https://tailwindcss.com/docs/guides/nextjs)
